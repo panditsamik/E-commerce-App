@@ -24,8 +24,7 @@
 - Today's Deals
 - Address Management
 - Payment Options
-- Payment Integration
-- Razorpay Integration
+- Payment Integration with Razorpay
 - Order History
 
 # Technologies
