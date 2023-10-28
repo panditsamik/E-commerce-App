@@ -14,7 +14,7 @@
 - Razorpay is integrated for online payments via UPI, Credit/Debit Cards, and Internet Banking.
 - Users can view their placed orders in the Profile Section for easy order tracking.
 
-# Features
+# Technologies
 - React Native
 - Node.js
 - Express
