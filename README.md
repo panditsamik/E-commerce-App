@@ -1,6 +1,19 @@
 # E-commerce-App
 ### *React Native* e-commerce app featuring *MongoDB*, *Express* and *Node.js* as the backend, *Redux Toolkit* for state management, *Lottie* for animations, *Razorpay* integration for online payments, product data fetched from the *Fake Store API* along with *Nodemailer* for email functionality.
 
+# Description
+- Users must log in or register to access the app.
+- Users can choose from various categories like Home, Deals, Electronics, Mobiles, Music, and Fashion.
+- A carousel slider displays best deals, upcoming sales, and more.
+- Trending deals of the week are showcased with detailed information, allowing users to add products to their cart or make a direct purchase.
+- Users can explore daily deals and add products to their cart.
+- User-related information, addresses and cart contents are securely stored in a MongoDB database in the cloud.
+- Users can choose or add their own delivery address.
+- Multiple payment methods are available, including Cash on Delivery, UPI, Credit/Debit Cards, and Internet Banking.
+- Payment procedures are seamlessly integrated with essential payment and order information in each step.
+- Razorpay is integrated for online payments via UPI, Credit/Debit Cards, and Internet Banking.
+- Users can view their placed orders in the Profile Section for easy order tracking.
+
 
 ## Screenshots
 
