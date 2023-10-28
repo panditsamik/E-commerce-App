@@ -14,6 +14,20 @@
 - Razorpay is integrated for online payments via UPI, Credit/Debit Cards, and Internet Banking.
 - Users can view their placed orders in the Profile Section for easy order tracking.
 
+# Features
+- React Native
+- Node.js
+- Express
+- MongoDB
+- Mongoose
+- Crypto
+- Redux Toolkit
+- Lottie
+- Razorpay
+- Fake Store API
+- Nodemailer
+- Body-parser
+
 
 ## Screenshots
 
