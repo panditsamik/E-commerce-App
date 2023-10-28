@@ -1,5 +1,5 @@
 # E-commerce-App
-### A *React Native* e-commerce app featuring *MongoDB* as the backend, *Redux Toolkit* for state management, *Lottie* for animations, and *Razorpay* integration for online payments, with product data fetched from the *Fake Store API*.
+### A *React Native* e-commerce app featuring *MongoDB*, *Express* and *Node.js* as the backend, *Redux Toolkit* for state management, *Lottie* for animations, and *Razorpay* integration for online payments, with product data fetched from the *Fake Store API*.
 
 
 ## Screenshots
