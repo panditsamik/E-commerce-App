@@ -52,7 +52,7 @@
 
 
 
-## Screenshots
+# Images
 
 ![image](https://github.com/panditsamik/E-commerce-App/assets/91545371/3f848e9d-e906-4b95-b924-f5b89dee532f)
 
@@ -110,7 +110,8 @@
 
 ---
 
-## Video
+
+# Video
 
 
 https://github.com/panditsamik/E-commerce-App/assets/91545371/04bf93d3-0714-4f31-94ec-204d9ddf8c7d
